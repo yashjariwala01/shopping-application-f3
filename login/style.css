@@ -40,6 +40,7 @@ nav .nav-items a {
     margin: 0 1rem;
 }
 
+
 .creditialsContainer h2{
     margin: 40px 35px 20px ;
 }
@@ -52,7 +53,8 @@ nav .nav-items a {
     gap: 1rem;
 }
 .creditialsContainer input{
-    padding: 0.5rem;
+    padding: 1rem;
+    
 }
 
 .creditialsContainer button{

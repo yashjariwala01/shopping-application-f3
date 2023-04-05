@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Inter", sans-serif;
+  overflow-x: hidden;
+  padding: 0rem 10rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: .5rem;
+  background-image: url("./paymentrocket..jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+h1 {
+    color: yellow;
+    text-align: center;
+    margin: 1.5rem 0rem;
+}
+button{
+    background-color: yellow;
+    padding: 1rem 1rem;
+    color: black;
+    font-size: medium;
+    font-weight: 700;
+    border-radius: .5rem;
+}
