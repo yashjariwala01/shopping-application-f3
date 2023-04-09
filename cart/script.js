@@ -1,3 +1,4 @@
+// just checking if the user is logged in
 const cartSection=document.querySelector("#cart-section")
 
 let cartItems=JSON.parse(localStorage.getItem("cart"))
